@@ -1,1 +1,1 @@
-console based currency converter using OOPs properties of java
+A console-based currency converter in Java using Object-Oriented Programming (OOP) principles would be a program that allows users to convert amounts from one currency to another through a command-line interface
